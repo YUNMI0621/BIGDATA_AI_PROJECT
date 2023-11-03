@@ -35,16 +35,15 @@
 ---
 ## 💿 함수 실행
 - 영화
-![Alt text](../README_img/project_01_03.png)
+![Alt text](../README_img/project_01_01.png)
 
 - 팝콘 및 음료
-![Alt text](../README_img/project_01_04.png)
+
 
 
 ---
 ## ◼️ 실행 결과
 - 영화
-![Alt text](../README_img/project_01_01.png)
+
 
 - 팝콘 및 음료
-![Alt text](../README_img/project_01_02.png)
