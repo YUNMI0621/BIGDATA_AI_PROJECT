@@ -74,3 +74,5 @@ def store():
 
 
     return total_price
+
+print(store())

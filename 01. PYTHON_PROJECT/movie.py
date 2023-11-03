@@ -41,3 +41,5 @@ def movie_info():
 
     return f'''고객님이 선택하신 영화는 "{movie.get(movie_num)}"이고 어린이 및 청소년 {movie_num_child}명, 어른 {movie_num_adult}명으로 가격은 {total_price}입니다.
 전체 좌석 중 잔역 좌석은 {total_seats-total_people}석입니다.''' 
+
+print(movie_info())
