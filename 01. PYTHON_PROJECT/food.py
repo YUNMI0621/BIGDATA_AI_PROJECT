@@ -73,6 +73,6 @@ def store():
             print('===== 해당 음식은 없습니다. 다시 입력해주세요. =====')
 
 
-    return f' 총 가격은 {total_price}원입니다.'
+    return f'총 가격은 {total_price}원입니다.'
 
 print(store())
