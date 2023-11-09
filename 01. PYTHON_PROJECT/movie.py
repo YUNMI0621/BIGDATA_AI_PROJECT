@@ -18,7 +18,7 @@ def movie_info():
         if movie_num in movie:
             print(f'선택된 영화 : {movie.get(movie_num)}')
             break
-        else : print('=====해당 영화는 존재하지 않습니다. 다시 입력해주세요.=====')
+        else : print('===== 해당 영화는 존재하지 않습니다. 다시 입력해주세요. =====')
     price_child=14_000
     price_adult=16_000
 # ============================= 인원수 입력 =========================================
