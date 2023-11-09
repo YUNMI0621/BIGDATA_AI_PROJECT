@@ -46,4 +46,3 @@
 ![Alt text](../README_img/project_01_03.png)
 
 - 팝콘 및 음료
-![Alt text](../README_img/project_01_04.png)
