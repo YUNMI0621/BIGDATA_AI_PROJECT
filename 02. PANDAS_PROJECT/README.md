@@ -19,7 +19,7 @@
 
 ---
 ## 📁 폴더 및 파일
-1. `subway_spring`<br>
+1. `subway_spring.csv`<br>
 지하철 월별 역별 시간대별 (3월, 4월, 5월) 데이터입니다.
 
 2. `subway.ipynb`<br>
