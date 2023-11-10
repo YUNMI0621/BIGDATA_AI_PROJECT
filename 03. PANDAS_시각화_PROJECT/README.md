@@ -59,7 +59,7 @@
 </td>
 <td>
 
-<!-- ![Alt text](../README_img/project_03_02.png) -->
+![Alt text](../README_img/project_03_04.png)
 </td>
 </tr>
 </table>
