@@ -55,7 +55,7 @@
 <tr>
 <td>
 
-![Alt text]![Alt text](../README_img/project_03_03.png)
+![Alt text](../README_img/project_03_03.png)
 </td>
 <td>
 
@@ -63,8 +63,6 @@
 </td>
 </tr>
 </table>
-![Alt text](../README_img/project_03_03.png)
-
 
 ---
 ## ◼️ 결과
